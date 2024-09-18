@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlazorCARS.HealthShield.WebApp.props" />
+</Project>

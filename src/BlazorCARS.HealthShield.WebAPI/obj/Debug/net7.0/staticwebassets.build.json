@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HU4wp2rRu3YYCNQeRH7QbNhnl88zOJl1z15FKGuEEco=",
+  "Source": "BlazorCARS.HealthShield.WebAPI",
+  "BasePath": "_content/BlazorCARS.HealthShield.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
